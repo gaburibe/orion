@@ -1,0 +1,18 @@
+{
+  "name": "orion",
+  "version": "1.0.0",
+  "description": "Programa de visualización y scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dr Fresco",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "crawler": "^1.0.2",
+    "express": "^4.14.0",
+    "neo4j": "2.0.0-RC2",
+    "neo4j-driver": "^1.0.4"
+  }
+}
